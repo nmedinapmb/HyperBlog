@@ -1,4 +1,2 @@
-esta es la historia de nancy medina
-hoy hablaremos de du vida
-
-nuevo ajuste
+hola
+este es mi primer archivo en visor code
