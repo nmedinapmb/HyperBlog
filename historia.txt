@@ -4,3 +4,4 @@ edad 30 años
 me encanta este curso
 si estoy felizz
 voy hacer mi primer blog
+no se si sera de viajes o de comida
