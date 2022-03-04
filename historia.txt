@@ -3,3 +3,4 @@ este es mi primer archivo en visor code
 edad 30 años
 me encanta este curso
 si estoy felizz
+voy hacer mi primer blog
